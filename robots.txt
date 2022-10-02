@@ -1,3 +1,4 @@
 User-agent: * 
-Disallow: /imagenes/ 
-Disallow: /busqueda
+Disallow: /img
+
+Sitemap: https://shadowsking007.github.io/FullmetalAlchemist/sitemap.xml
